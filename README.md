@@ -1,8 +1,9 @@
 # Argv
 
-github.com/oddbit-project/argv
+![go-version](https://img.shields.io/github/go-mod/go-version/oddbit-project/argv)
+![go-build](https://img.shields.io/github/actions/workflow/status/oddbit-project/argv/tests.yml)
+![go-reportcard](https://goreportcard.com/badge/github.com/oddbit-project/argv)
 
-[![GitHub tag](https://img.shields.io/github/tag/oddbit-project/argv.svg?style=flat)](https://github.com/oddbit-project/argv/releases)
 
 Parse string slices into structs
 
